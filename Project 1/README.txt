@@ -1,0 +1,1 @@
+The object of this project was to re-introduce students to object oriented programming and circular dependencies. Students were tasked with implementing functions left empty by the professor and properly including header files.  
